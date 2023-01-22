@@ -4,6 +4,4 @@ Founder, Developer & owner @ <a href="https://apolloservices.xyz">Apolloservices
 
 
 # languages I know
-<div id="header" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100"/>
-</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100"/>
